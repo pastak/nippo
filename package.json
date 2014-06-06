@@ -1,0 +1,23 @@
+{
+  "name": "nippo",
+  "main": "./lib/nippo",
+  "version": "v0.0.1",
+  "description": "generate nippo (dairy working report) from Git-log",
+  "repository": "https://github.com/pastak/nippo",
+  "license": "MIT",
+  "activationEvents": ["Nippo:Generate"],
+  "engines": {
+    "atom": ">0.50.0",
+    "node": "v*"
+  },
+  "dependencies": {
+    "fs": "*",
+    "underscore-plus": "*",
+    "path": "*",
+    "loophole": "*",
+    "vm": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/pastak/nippo/issues"
+  }
+}
