@@ -1,11 +1,13 @@
 {
   "name": "nippo",
   "main": "./lib/nippo",
-  "version": "v0.0.1",
+  "version": "0.1.0",
   "description": "generate nippo (dairy working report) from Git-log",
   "repository": "https://github.com/pastak/nippo",
   "license": "MIT",
-  "activationEvents": ["Nippo:Generate"],
+  "activationEvents": [
+    "Nippo:Generate"
+  ],
   "engines": {
     "atom": ">0.50.0",
     "node": "v*"
