@@ -13,11 +13,8 @@
     "node": "v*"
   },
   "dependencies": {
-    "fs": "*",
     "underscore-plus": "*",
-    "path": "*",
-    "loophole": "*",
-    "vm": "*"
+    "loophole": "*"
   },
   "bugs": {
     "url": "https://github.com/pastak/nippo/issues"
