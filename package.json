@@ -1,7 +1,7 @@
 {
   "name": "nippo",
   "main": "./lib/nippo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "generate nippo (dairy working report) from Git-log",
   "repository": "https://github.com/pastak/nippo",
   "license": "MIT",
